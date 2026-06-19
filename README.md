@@ -1,9 +1,8 @@
-
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+As tecnologias utilizadas neste projeto foram:
 
 - HTML e CSS
 - JavaScript
-- Git e Github
+- Git e GitHub
 - Figma
